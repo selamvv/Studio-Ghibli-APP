@@ -1,0 +1,47 @@
+div{
+  padding:
+  10px 10px 20px 10px;
+  border: 5px solid #BFBFBF;
+  background-color: white;
+  box-shadow: 10px 10px 5px #aaaaaa;
+  color:red;  
+ text-align: center;
+
+
+}
+
+  
+    div {
+        
+        border: 15px solid blue;
+        padding: 50px;
+        margin: 20px;
+        
+}
+h1  {
+    border: 15px dotted green;
+        padding: 50px;
+        margin: 20px;
+    font: back;
+    text-align: center;
+    font-family: fantasy
+   
+    
+    
+}
+p{
+  border: 5px solid blue;
+        padding: 50px;
+        margin: 20px;
+    font-family:cursive;
+    
+}
+.people{
+    border: 10px dotted orange;
+        padding: 50px;
+        margin: 20px;
+    
+    
+}
+ 
+    
